@@ -1,0 +1,8 @@
+prog Ejem5
+in bool c;
+out int b;
+local int a;
+{
+ a:= 1;
+ b:=a+1;
+}

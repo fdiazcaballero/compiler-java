@@ -1,0 +1,14 @@
+prog Ejem3
+in int a, b;
+out int c, d;
+    bool e;
+
+{
+ c:=a+b;
+ d:= 0;
+ e:= false;
+ if a=b then
+   d:= 1;
+   e:= true;
+ endif;
+}

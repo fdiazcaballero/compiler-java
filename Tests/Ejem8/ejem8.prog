@@ -1,0 +1,6 @@
+prog Ejem1 
+in int a;
+out int v;
+{
+ v:=a+1;
+}

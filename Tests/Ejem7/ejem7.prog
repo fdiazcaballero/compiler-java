@@ -1,0 +1,7 @@
+prog Ejem1 
+in int a, b;
+   bool c, d;
+out bool e;
+{
+ e:=a = b = c = d;
+}

@@ -1,0 +1,6 @@
+prog Ejem1 
+in int a, b;
+out int c;
+{
+ c:=a+b;
+}

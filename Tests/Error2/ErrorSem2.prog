@@ -1,0 +1,18 @@
+prog Ejem7
+in int a, b;
+   bool f, g;
+   int h;
+out int c, a, d;
+    bool e;
+
+{
+ c:=a+b;
+ d:= b+h;
+ e:= true;
+ if a=b then
+  if f then
+   d:= 1;
+   e:= true;
+  endif;
+ endif;
+}

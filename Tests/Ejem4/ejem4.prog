@@ -1,0 +1,25 @@
+prog Ejem4
+in int a, b;
+   bool f, g;
+   int h;
+out int c, d;
+    bool e;
+local
+    bool i;
+
+{
+ c:=a+b;
+ d:= b+h;
+ e:= false;
+ if a=b then
+  if f then
+   d:= 1;
+   e:= true;
+  endif;
+  i:= a+a = h+b;
+  if g = i
+  then 
+   d:=2;
+  endif;
+ endif;
+}

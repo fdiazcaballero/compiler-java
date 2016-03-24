@@ -1,0 +1,8 @@
+prog Ejem2 
+in int a;
+out int b;
+local int c;
+{
+ c:=a+1;
+ b:=c+1;
+}
